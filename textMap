@@ -1,0 +1,24 @@
+So, super simple text file for now.  Just to get ideas and stucture down.
+I'll be using a simple cascading style to organize how pages will be linked.  In terms of who the parent will be.
+There is two ways we could do this.  We could actually replicate the real site, as the actual home page is a map, 
+and you select where you are. (https://www.craigslist.org/about/sites)
+OR, we just replicate the site, as if we've already picked our location.  Which is what I'll be showing below.
+
+
+Home (this will be the home page, much like a real craigslist https://vancouver.craigslist.ca/)
+  -post to cl
+  -my account
+  -event calendar
+  -help, faq, abuse, legal
+  -avoid scams & fraud
+  -personal safety tips
+  -terms of usenew
+  -privacy policy
+  -system status
+  -about craigslist
+  -craigslist open source
+  -craigslist blog
+  -best-of-craigslist
+  -craigslist TV
+  -"craigslist joe"
+  -craig connects
